@@ -109,14 +109,14 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 
 <p align="center">
-  <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=github.com-marianmmr8-Portfolio-cv-Marian&theme=react&hide_border=true" alt="Proyecto 1" />
+    <a href="https://github.com/marianmmr8/Clubdemontana">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana&theme=react&hide_border=true" alt="Proyecto 3"/>
   </a>
   <a href="https://github.com/marianmmr8/miprimeritaweb-main">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=miprimeritaweb-main&theme=react&hide_border=true" alt="Proyecto 2" />
   </a>
-  <a href="https://github.com/marianmmr8/Clubdemontana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana&theme=react&hide_border=true" alt="Proyecto 3"/>
+ <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=github.com-marianmmr8-Portfolio-cv-Marian&theme=react&hide_border=true" alt="Proyecto 1" />
   </a>
 </p>
 
@@ -136,3 +136,10 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 
 "Las metas se consiguen con constancia y perseverancia poco a poco, a cada paso que doy estoy mas cerca de ella." – Autor
 <p align="center">⭐ ¡Gracias por pasarte por mi perfil! ⭐</p>
+
+<p align="center">✏️ Si quieres saber más sobre mi trayectoría profesional y conocimientos escanea el QR ✏️</p>
+
+
+<p align="center">
+  <img src="Images/qr-code.png" alt="Marian" width="150" />
+</p>
