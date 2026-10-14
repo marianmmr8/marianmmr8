@@ -116,8 +116,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=miprimeritaweb-main&theme=react&hide_border=true" alt="Proyecto 2" />
   </a>
   <a href="https://github.com/marianmmr8/Clubdemontana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana
-&theme=react&hide_border=true" alt="Proyecto 3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana&theme=react&hide_border=true" alt="Proyecto 3"/>
   </a>
 </p>
 
