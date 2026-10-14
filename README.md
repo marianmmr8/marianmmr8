@@ -117,7 +117,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   </a>
   <a href="https://github.com/marianmmr8/Clubdemontana">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana
-&theme=react&hide_border=true" alt="Proyecto 3" />
+&theme=react&hide_border=true" alt="Proyecto 3"/>
   </a>
 </p>
 
