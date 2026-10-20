@@ -141,5 +141,5 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 
 
 <p align="center">
-  <img src="Images/qr-code.png" alt="Marian" width="150" />
+  <img src="imagenes/qr-code.png" alt="QR portfolio Marian" width="150" />
 </p>
