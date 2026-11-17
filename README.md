@@ -87,16 +87,24 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 <!-- ═══════════════ 5. ESTADÍSTICAS ═══════════════ -->
 
 📊 Estadísticas de GitHub
-<!-- Temas disponibles: dark, radical, tokyonight, react, dracula, gruvbox,
-     onedark, github_dark, transparent...
-     Cambia "theme=react" en las TRES imágenes para que combinen.
-     Nota: la instancia pública de github-readme-stats a veces no carga por
-     límites de uso; si te pasa a menudo, se puede desplegar una propia. -->
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/marianmmr8?style=for-the-badge&color=0A66C2&label=Seguidores" alt="Seguidores de GitHub" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmarianmmr8&query=%24.public_repos&style=for-the-badge&label=Repositorios%20p%C3%BAblicos&color=F791CF" alt="Repositorios públicos" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Seguidores</h3>
+      <img src="https://img.shields.io/github/followers/marianmmr8?style=for-the-badge&color=58A6FF&label=" alt="Seguidores de GitHub" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Repositorios</h3>
+      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmarianmmr8&query=%24.public_repos&style=for-the-badge&label=&color=F791CF" alt="Repositorios públicos" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Perfil público</h3>
+      <a href="https://github.com/marianmmr8">
+        <img src="https://img.shields.io/badge/GitHub-marianmmr8-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/58A6FF/marianmmr8" alt="Historial de contribuciones de GitHub" />
@@ -110,63 +118,61 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ Taller mecánico</h3>
-      <p>Gestión de taller mecánico.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/marianmmr8/taller-mecanico?style=flat-square&color=F791CF" alt="Estrellas" />
-        <img src="https://img.shields.io/github/last-commit/marianmmr8/taller-mecanico?style=flat-square&color=58A6FF" alt="Último cambio" />
-      </p>
-      <a href="https://github.com/marianmmr8/taller-mecanico">Ver proyecto →</a>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🛠️-TALLER%20MECÁNICO-58A6FF?style=for-the-badge" alt="Taller mecánico" />
+      <br /><br />
+      <p>Gestión completa de un taller mecánico.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/taller-mecanico?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/taller-mecanico?style=flat-square&color=58A6FF" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/taller-mecanico"><strong>Ver proyecto →</strong></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎬 Películas</h3>
-      <p>Aplicación web sobre películas.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/marianmmr8/peliculas?style=flat-square&color=F791CF" alt="Estrellas" />
-        <img src="https://img.shields.io/github/last-commit/marianmmr8/peliculas?style=flat-square&color=58A6FF" alt="Último cambio" />
-      </p>
-      <a href="https://github.com/marianmmr8/peliculas">Ver proyecto →</a>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🎬-PELÍCULAS-A371F7?style=for-the-badge" alt="Películas" />
+      <br /><br />
+      <p>Explorador web de información sobre películas.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/peliculas?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/peliculas?style=flat-square&color=A371F7" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/peliculas"><strong>Ver proyecto →</strong></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Biblioteca</h3>
-      <p>Proyecto de gestión de biblioteca.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/marianmmr8/biblioteca?style=flat-square&color=F791CF" alt="Estrellas" />
-        <img src="https://img.shields.io/github/last-commit/marianmmr8/biblioteca?style=flat-square&color=58A6FF" alt="Último cambio" />
-      </p>
-      <a href="https://github.com/marianmmr8/biblioteca">Ver proyecto →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛰️ Club de montaña</h3>
-      <p>Proyecto web de club de montaña.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/marianmmr8/Clubdemontana?style=flat-square&color=F791CF" alt="Estrellas" />
-        <img src="https://img.shields.io/github/last-commit/marianmmr8/Clubdemontana?style=flat-square&color=58A6FF" alt="Último cambio" />
-      </p>
-      <a href="https://github.com/marianmmr8/Clubdemontana">Ver proyecto →</a>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/📚-BIBLIOTECA-3FB950?style=for-the-badge" alt="Biblioteca" />
+      <br /><br />
+      <p>Proyecto de gestión y organización de biblioteca.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/biblioteca?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/biblioteca?style=flat-square&color=3FB950" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/biblioteca"><strong>Ver proyecto →</strong></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Mi primera web</h3>
-      <p>Primer proyecto web desarrollado.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/marianmmr8/miprimeritaweb-main?style=flat-square&color=F791CF" alt="Estrellas" />
-        <img src="https://img.shields.io/github/last-commit/marianmmr8/miprimeritaweb-main?style=flat-square&color=58A6FF" alt="Último cambio" />
-      </p>
-      <a href="https://github.com/marianmmr8/miprimeritaweb-main">Ver proyecto →</a>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/⛰️-CLUB%20DE%20MONTAÑA-238636?style=for-the-badge" alt="Club de montaña" />
+      <br /><br />
+      <p>Web informativa para un club de montaña.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/Clubdemontana?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/Clubdemontana?style=flat-square&color=238636" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/Clubdemontana"><strong>Ver proyecto →</strong></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>💼 Portfolio</h3>
-      <p>Portfolio personal y currículum.</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=F791CF" alt="Estrellas" />
-        <img src="https://img.shields.io/github/last-commit/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=58A6FF" alt="Último cambio" />
-      </p>
-      <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian">Ver proyecto →</a>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🌐-MI%20PRIMERA%20WEB-F0883E?style=for-the-badge" alt="Mi primera web" />
+      <br /><br />
+      <p>Primer proyecto web y primer paso en desarrollo.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/miprimeritaweb-main?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/miprimeritaweb-main?style=flat-square&color=F0883E" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/miprimeritaweb-main"><strong>Ver proyecto →</strong></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/💼-PORTFOLIO-F791CF?style=for-the-badge" alt="Portfolio" />
+      <br /><br />
+      <p>Portfolio personal y presentación profesional.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=F791CF" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian"><strong>Ver proyecto →</strong></a>
     </td>
   </tr>
 </table>
