@@ -80,7 +80,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
      docker, nodejs, ts, php, laravel, postgres, mongodb, figma, linux...) -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,wordpress,linux,kali,windows,powershell=13" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode,wordpress,linux,kali,windows,powershell" alt="Tecnologías" />
 </p>
 
 
@@ -94,12 +94,12 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
      límites de uso; si te pasa a menudo, se puede desplegar una propia. -->
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marianmmr8&theme=react&show_icons=true&hide_border=true&count_private=true&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianmmr8&theme=react&layout=compact&hide_border=true&langs_count=6&locale=es" alt="Lenguajes más usados" />
+  <img src="https://img.shields.io/github/followers/marianmmr8?style=for-the-badge&color=0A66C2&label=Seguidores" alt="Seguidores de GitHub" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmarianmmr8&query=%24.public_repos&style=for-the-badge&label=Repositorios%20p%C3%BAblicos&color=F791CF" alt="Repositorios públicos" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marianmmr8&theme=react&hide_border=true&locale=es" alt="Racha de contribuciones" />
+  <img src="https://ghchart.rshah.org/58A6FF/marianmmr8" alt="Historial de contribuciones de GitHub" />
 </p>
 
 
@@ -108,23 +108,14 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 📌 Proyectos destacados
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 
-<p align="center">
-  <a href="https://github.com/marianmmr8/taller-mecanico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=taller-mecanico&theme=react&hide_border=true" alt="Taller mecánico" />
-  </a>
-  <a href="https://github.com/marianmmr8/peliculas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=peliculas&theme=react&hide_border=true" alt="Películas" />
-  </a>
-  <a href="https://github.com/marianmmr8/Clubdemontana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana&theme=react&hide_border=true" alt="Proyecto 3"/>
-  </a>
-  <a href="https://github.com/marianmmr8/miprimeritaweb-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=miprimeritaweb-main&theme=react&hide_border=true" alt="Proyecto 2" />
-  </a>
- <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=github.com-marianmmr8-Portfolio-cv-Marian&theme=react&hide_border=true" alt="Proyecto 1" />
-  </a>
-</p>
+| Proyecto | Descripción |
+|:---|:---|
+| [Taller mecánico](https://github.com/marianmmr8/taller-mecanico) | Gestión de taller mecánico |
+| [Películas](https://github.com/marianmmr8/peliculas) | Aplicación web sobre películas |
+| [Biblioteca](https://github.com/marianmmr8/biblioteca) | Proyecto de gestión de biblioteca |
+| [Club de montaña](https://github.com/marianmmr8/Clubdemontana) | Proyecto web de club de montaña |
+| [Mi primera web](https://github.com/marianmmr8/miprimeritaweb-main) | Primer proyecto web |
+| [Portfolio](https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian) | Portfolio personal y currículum |
 
 
 <!-- ═══════════════ 7. OBJETIVOS ═══════════════ -->
