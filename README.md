@@ -117,9 +117,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/taller-mecanico" width="100%" alt="Taller mecánico" />
-      <br />
-      <img src="https://img.shields.io/badge/🛠️-TALLER%20MECÁNICO-58A6FF?style=for-the-badge" alt="Taller mecánico" />
+      <img src="https://img.shields.io/badge/🛠️-TALLER%20MECÁNICO-22D3EE?style=for-the-badge" alt="Taller mecánico" />
       <br />
       <p>Gestión completa de un taller mecánico.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/taller-mecanico?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -128,9 +126,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/taller-mecanico"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/peliculas" width="100%" alt="Películas" />
-      <br />
-      <img src="https://img.shields.io/badge/🎬-PELÍCULAS-A371F7?style=for-the-badge" alt="Películas" />
+      <img src="https://img.shields.io/badge/🎬-PELÍCULAS-22D3EE?style=for-the-badge" alt="Películas" />
       <br />
       <p>Explorador web de información sobre películas.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/peliculas?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -139,9 +135,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/peliculas"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/biblioteca" width="100%" alt="Biblioteca" />
-      <br />
-      <img src="https://img.shields.io/badge/📚-BIBLIOTECA-3FB950?style=for-the-badge" alt="Biblioteca" />
+      <img src="https://img.shields.io/badge/📚-BIBLIOTECA-22D3EE?style=for-the-badge" alt="Biblioteca" />
       <br />
       <p>Proyecto de gestión y organización de biblioteca.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/biblioteca?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -153,9 +147,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   <tr><td colspan="3"><br /></td></tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/Clubdemontana" width="100%" alt="Club de montaña" />
-      <br />
-      <img src="https://img.shields.io/badge/⛰️-CLUB%20DE%20MONTAÑA-238636?style=for-the-badge" alt="Club de montaña" />
+      <img src="https://img.shields.io/badge/⛰️-CLUB%20DE%20MONTAÑA-22D3EE?style=for-the-badge" alt="Club de montaña" />
       <br />
       <p>Web informativa para un club de montaña.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/Clubdemontana?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -164,9 +156,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/Clubdemontana"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/miprimeritaweb-main" width="100%" alt="Mi primera web" />
-      <br />
-      <img src="https://img.shields.io/badge/🌐-MI%20PRIMERA%20WEB-F0883E?style=for-the-badge" alt="Mi primera web" />
+      <img src="https://img.shields.io/badge/🌐-MI%20PRIMERA%20WEB-22D3EE?style=for-the-badge" alt="Mi primera web" />
       <br />
       <p>Primer proyecto web y primer paso en desarrollo.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/miprimeritaweb-main?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -175,9 +165,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/miprimeritaweb-main"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian" width="100%" alt="Portfolio" />
-      <br />
-      <img src="https://img.shields.io/badge/💼-PORTFOLIO-F791CF?style=for-the-badge" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/💼-PORTFOLIO-22D3EE?style=for-the-badge" alt="Portfolio" />
       <br />
       <p>Portfolio personal y presentación profesional.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -189,9 +177,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   <tr><td colspan="3"><br /></td></tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/FORMULARIO" width="100%" alt="Formulario" />
-      <br />
-      <img src="https://img.shields.io/badge/📝-FORMULARIO-8250DF?style=for-the-badge" alt="Formulario" />
+      <img src="https://img.shields.io/badge/📝-FORMULARIO-22D3EE?style=for-the-badge" alt="Formulario" />
       <br />
       <p>Formulario web con estructura y estilos HTML.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/FORMULARIO?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -200,9 +186,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/FORMULARIO"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/galletagame" width="100%" alt="Juego de galletas" />
-      <br />
-      <img src="https://img.shields.io/badge/🎮-JUEGO%20DE%20GALLETAS-F0883E?style=for-the-badge" alt="Juego de galletas" />
+      <img src="https://img.shields.io/badge/🎮-JUEGO%20DE%20GALLETAS-22D3EE?style=for-the-badge" alt="Juego de galletas" />
       <br />
       <p>Juego interactivo desarrollado con JavaScript.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/galletagame?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -211,9 +195,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/galletagame"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/adolescentes" width="100%" alt="Adolescentes" />
-      <br />
-      <img src="https://img.shields.io/badge/👥-ADOLESCENTES-1F6FEB?style=for-the-badge" alt="Adolescentes" />
+      <img src="https://img.shields.io/badge/👥-ADOLESCENTES-22D3EE?style=for-the-badge" alt="Adolescentes" />
       <br />
       <p>Proyecto web realizado con JavaScript.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/adolescentes?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -225,9 +207,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   <tr><td colspan="3"><br /></td></tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/lista-de-canciones" width="100%" alt="Lista de canciones" />
-      <br />
-      <img src="https://img.shields.io/badge/🎵-LISTA%20DE%20CANCIONES-DA3633?style=for-the-badge" alt="Lista de canciones" />
+      <img src="https://img.shields.io/badge/🎵-LISTA%20DE%20CANCIONES-22D3EE?style=for-the-badge" alt="Lista de canciones" />
       <br />
       <p>Aplicación web para gestionar canciones.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/lista-de-canciones?style=flat-square&color=F791CF" alt="Estrellas" />
@@ -236,9 +216,7 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/lista-de-canciones"><strong>Ver proyecto →</strong></a>
     </td>
     <td align="center" width="33%" valign="top">
-      <img src="https://opengraph.githubassets.com/1/marianmmr8/proyecto-web-amas-de-casa" width="100%" alt="Proyecto amas de casa" />
-      <br />
-      <img src="https://img.shields.io/badge/👩‍👧-PROYECTO%20AMAS%20DE%20CASA-FF6B9D?style=for-the-badge" alt="Proyecto amas de casa" />
+      <img src="https://img.shields.io/badge/👩‍👧-PROYECTO%20AMAS%20DE%20CASA-22D3EE?style=for-the-badge" alt="Proyecto amas de casa" />
       <br />
       <p>Proyecto web creado como práctica de desarrollo.</p>
       <img src="https://img.shields.io/github/stars/marianmmr8/proyecto-web-amas-de-casa?style=flat-square&color=F791CF" alt="Estrellas" />
