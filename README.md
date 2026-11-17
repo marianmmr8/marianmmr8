@@ -175,6 +175,64 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
       <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian"><strong>Ver proyecto →</strong></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🌐-MI%20PRIMERITA%20WEB-DB6D28?style=for-the-badge" alt="Mi primerita web" />
+      <br /><br />
+      <p>Primera práctica web publicada en GitHub.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/miprimeritaweb?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/miprimeritaweb?style=flat-square&color=DB6D28" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/miprimeritaweb"><strong>Ver proyecto →</strong></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/📝-FORMULARIO-8250DF?style=for-the-badge" alt="Formulario" />
+      <br /><br />
+      <p>Formulario web con estructura y estilos HTML.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/FORMULARIO?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/FORMULARIO?style=flat-square&color=8250DF" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/FORMULARIO"><strong>Ver proyecto →</strong></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🎮-JUEGO%20DE%20GALLETAS-F0883E?style=for-the-badge" alt="Juego de galletas" />
+      <br /><br />
+      <p>Juego interactivo desarrollado con JavaScript.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/galletagame?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/galletagame?style=flat-square&color=F0883E" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/galletagame"><strong>Ver proyecto →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/👥-ADOLESCENTES-1F6FEB?style=for-the-badge" alt="Adolescentes" />
+      <br /><br />
+      <p>Proyecto web realizado con JavaScript.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/adolescentes?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/adolescentes?style=flat-square&color=1F6FEB" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/adolescentes"><strong>Ver proyecto →</strong></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/🎵-LISTA%20DE%20CANCIONES-DA3633?style=for-the-badge" alt="Lista de canciones" />
+      <br /><br />
+      <p>Aplicación web para gestionar canciones.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/lista-de-canciones?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/lista-de-canciones?style=flat-square&color=DA3633" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/lista-de-canciones"><strong>Ver proyecto →</strong></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://img.shields.io/badge/👩‍👧-PROYECTO%20AMAS%20DE%20CASA-FF6B9D?style=for-the-badge" alt="Proyecto amas de casa" />
+      <br /><br />
+      <p>Proyecto web creado como práctica de desarrollo.</p>
+      <img src="https://img.shields.io/github/stars/marianmmr8/proyecto-web-amas-de-casa?style=flat-square&color=F791CF" alt="Estrellas" />
+      <img src="https://img.shields.io/github/last-commit/marianmmr8/proyecto-web-amas-de-casa?style=flat-square&color=FF6B9D" alt="Último cambio" />
+      <br /><br />
+      <a href="https://github.com/marianmmr8/proyecto-web-amas-de-casa"><strong>Ver proyecto →</strong></a>
+    </td>
+  </tr>
 </table>
 
 
