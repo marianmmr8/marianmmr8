@@ -108,14 +108,68 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 📌 Proyectos destacados
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 
-| Proyecto | Descripción |
-|:---|:---|
-| [Taller mecánico](https://github.com/marianmmr8/taller-mecanico) | Gestión de taller mecánico |
-| [Películas](https://github.com/marianmmr8/peliculas) | Aplicación web sobre películas |
-| [Biblioteca](https://github.com/marianmmr8/biblioteca) | Proyecto de gestión de biblioteca |
-| [Club de montaña](https://github.com/marianmmr8/Clubdemontana) | Proyecto web de club de montaña |
-| [Mi primera web](https://github.com/marianmmr8/miprimeritaweb-main) | Primer proyecto web |
-| [Portfolio](https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian) | Portfolio personal y currículum |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Taller mecánico</h3>
+      <p>Gestión de taller mecánico.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/marianmmr8/taller-mecanico?style=flat-square&color=F791CF" alt="Estrellas" />
+        <img src="https://img.shields.io/github/last-commit/marianmmr8/taller-mecanico?style=flat-square&color=58A6FF" alt="Último cambio" />
+      </p>
+      <a href="https://github.com/marianmmr8/taller-mecanico">Ver proyecto →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Películas</h3>
+      <p>Aplicación web sobre películas.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/marianmmr8/peliculas?style=flat-square&color=F791CF" alt="Estrellas" />
+        <img src="https://img.shields.io/github/last-commit/marianmmr8/peliculas?style=flat-square&color=58A6FF" alt="Último cambio" />
+      </p>
+      <a href="https://github.com/marianmmr8/peliculas">Ver proyecto →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Biblioteca</h3>
+      <p>Proyecto de gestión de biblioteca.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/marianmmr8/biblioteca?style=flat-square&color=F791CF" alt="Estrellas" />
+        <img src="https://img.shields.io/github/last-commit/marianmmr8/biblioteca?style=flat-square&color=58A6FF" alt="Último cambio" />
+      </p>
+      <a href="https://github.com/marianmmr8/biblioteca">Ver proyecto →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛰️ Club de montaña</h3>
+      <p>Proyecto web de club de montaña.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/marianmmr8/Clubdemontana?style=flat-square&color=F791CF" alt="Estrellas" />
+        <img src="https://img.shields.io/github/last-commit/marianmmr8/Clubdemontana?style=flat-square&color=58A6FF" alt="Último cambio" />
+      </p>
+      <a href="https://github.com/marianmmr8/Clubdemontana">Ver proyecto →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Mi primera web</h3>
+      <p>Primer proyecto web desarrollado.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/marianmmr8/miprimeritaweb-main?style=flat-square&color=F791CF" alt="Estrellas" />
+        <img src="https://img.shields.io/github/last-commit/marianmmr8/miprimeritaweb-main?style=flat-square&color=58A6FF" alt="Último cambio" />
+      </p>
+      <a href="https://github.com/marianmmr8/miprimeritaweb-main">Ver proyecto →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Portfolio</h3>
+      <p>Portfolio personal y currículum.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=F791CF" alt="Estrellas" />
+        <img src="https://img.shields.io/github/last-commit/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian?style=flat-square&color=58A6FF" alt="Último cambio" />
+      </p>
+      <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian">Ver proyecto →</a>
+    </td>
+  </tr>
+</table>
 
 
 <!-- ═══════════════ 7. OBJETIVOS ═══════════════ -->
