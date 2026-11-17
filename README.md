@@ -109,7 +109,13 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 <!-- Cambia NOMBRE_REPO por repos tuyos. Añade o quita tarjetas. -->
 
 <p align="center">
-    <a href="https://github.com/marianmmr8/Clubdemontana">
+  <a href="https://github.com/marianmmr8/taller-mecanico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=taller-mecanico&theme=react&hide_border=true" alt="Taller mecánico" />
+  </a>
+  <a href="https://github.com/marianmmr8/peliculas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=peliculas&theme=react&hide_border=true" alt="Películas" />
+  </a>
+  <a href="https://github.com/marianmmr8/Clubdemontana">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marianmmr8&repo=Clubdemontana&theme=react&hide_border=true" alt="Proyecto 3"/>
   </a>
   <a href="https://github.com/marianmmr8/miprimeritaweb-main">
