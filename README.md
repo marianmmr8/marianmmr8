@@ -116,20 +116,20 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/taller-mecanico/main/docs/images/01-login.png" width="100%" alt="Captura del proyecto Taller mecánico" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/taller-mecanico/main/docs/images/01-login.png" width="200" height="120" alt="Captura del proyecto Taller mecánico" />
       <h3>Taller mecánico</h3>
       <p>Gestión completa de un taller mecánico.</p>
       <a href="https://github.com/marianmmr8/taller-mecanico"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/peliculas/main/capturas/portada.png" width="100%" alt="Captura del catálogo de películas" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/peliculas/main/capturas/portada.png" width="200" height="120" alt="Captura del catálogo de películas" />
       <h3>Películas</h3>
       <p>Explorador web de información sobre películas.</p>
       <a href="https://github.com/marianmmr8/peliculas"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/biblioteca/main/assets/don-quijote.png" width="100%" alt="Libro del proyecto Biblioteca" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/biblioteca/main/assets/don-quijote.png" width="200" height="120" alt="Libro del proyecto Biblioteca" />
       <h3>Biblioteca</h3>
       <p>Proyecto de gestión y organización de biblioteca.</p>
       <a href="https://github.com/marianmmr8/biblioteca"><strong>Ver proyecto →</strong></a>
@@ -137,20 +137,20 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   </tr>
   <tr><td colspan="3"><br /></td></tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/Clubdemontana/main/img/imagencabecera.jpg" width="100%" alt="Imagen del Club de montaña" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/Clubdemontana/main/img/imagencabecera.jpg" width="200" height="120" alt="Imagen del Club de montaña" />
       <h3>Club de montaña</h3>
       <p>Web informativa para un club de montaña.</p>
       <a href="https://github.com/marianmmr8/Clubdemontana"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/miprimeritaweb-main/main/Captura%20de%20pantalla%202026-10-13%20185954.png" width="100%" alt="Captura de Mi primera web" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/miprimeritaweb-main/main/Captura%20de%20pantalla%202026-10-13%20185954.png" width="200" height="120" alt="Captura de Mi primera web" />
       <h3>Mi primera web</h3>
       <p>Primer proyecto web y primer paso en desarrollo.</p>
       <a href="https://github.com/marianmmr8/miprimeritaweb-main"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian/main/Captura%20de%20pantalla%202026-10-13%20173208.png" width="100%" alt="Captura del portfolio personal" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian/main/Captura%20de%20pantalla%202026-10-13%20173208.png" width="200" height="120" alt="Captura del portfolio personal" />
       <h3>Portfolio</h3>
       <p>Portfolio personal y presentación profesional.</p>
       <a href="https://github.com/marianmmr8/github.com-marianmmr8-Portfolio-cv-Marian"><strong>Ver proyecto →</strong></a>
@@ -158,20 +158,20 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   </tr>
   <tr><td colspan="3"><br /></td></tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="Images/formulario.png" width="100%" alt="Captura del formulario de inicio de sesión" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="Images/formulario.png" width="200" height="120" alt="Captura del formulario de inicio de sesión" />
       <h3>Formulario</h3>
       <p>Formulario web con estructura y estilos HTML.</p>
       <a href="https://github.com/marianmmr8/FORMULARIO"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/galletagame/main/img/Captura%20de%20pantalla%202026-10-13%20175802.png" width="100%" alt="Captura del juego de galletas" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/galletagame/main/img/Captura%20de%20pantalla%202026-10-13%20175802.png" width="200" height="120" alt="Captura del juego de galletas" />
       <h3>Juego de galletas</h3>
       <p>Juego interactivo desarrollado con JavaScript.</p>
       <a href="https://github.com/marianmmr8/galletagame"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/marianmmr8/adolescentes/main/Captura%20de%20pantalla%202026-10-13%20180328.png" width="100%" alt="Captura del menú del proyecto Adolescentes" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://raw.githubusercontent.com/marianmmr8/adolescentes/main/Captura%20de%20pantalla%202026-10-13%20180328.png" width="200" height="120" alt="Captura del menú del proyecto Adolescentes" />
       <h3>Adolescentes</h3>
       <p>Proyecto web realizado con JavaScript.</p>
       <a href="https://github.com/marianmmr8/adolescentes"><strong>Ver proyecto →</strong></a>
@@ -179,18 +179,19 @@ Ahora tengo 34 años , experiencia y ganas muchas ganas de aprender y formarme c
   </tr>
   <tr><td colspan="3"><br /></td></tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="Images/lista-de-canciones.png" width="100%" alt="Captura de la lista de canciones" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="Images/lista-de-canciones.png" width="200" height="120" alt="Captura de la lista de canciones" />
       <h3>Lista de canciones</h3>
       <p>Aplicación web para gestionar canciones.</p>
       <a href="https://github.com/marianmmr8/lista-de-canciones"><strong>Ver proyecto →</strong></a>
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&amp;fit=crop&amp;w=1000&amp;q=80" width="100%" alt="Imagen principal del proyecto Amas de casa" />
+    <td align="center" width="33%" height="280" valign="top">
+      <img src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&amp;fit=crop&amp;w=1000&amp;q=80" width="200" height="120" alt="Imagen principal del proyecto Amas de casa" />
       <h3>Proyecto amas de casa</h3>
       <p>Proyecto web creado como práctica de desarrollo.</p>
       <a href="https://github.com/marianmmr8/proyecto-web-amas-de-casa"><strong>Ver proyecto →</strong></a>
     </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
